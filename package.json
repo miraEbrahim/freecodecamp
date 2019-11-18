@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/miraEbrahim/freecodecamp/issues"
   },
-  "homepage": "https://github.com/miraEbrahim/freecodecamp#readme"
+  "homepage": "https://github.com/miraEbrahim/freecodecamp#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
 }
